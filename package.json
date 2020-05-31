@@ -1,0 +1,23 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consolidate": "^0.15.1",
+    "eslint": "^5.7.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9",
+    "mustache": "^3.0.0",
+    "mustache-express": "^1.2.8",
+    "swig": "^1.4.2",
+    "veetaha-web": "*"
+  }
+}

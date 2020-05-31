@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link type = "text/css" rel="stylesheet" href="/stylesheets/style.css">
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <ul class="menu">
+      <li class="active"><a href="/">Home</a></li>
+      <li><a href="/words/1">Words</a></li>
+      <li class="menu_exit"><a href="#exit">Exit</a></li>
+    </ul>
+  </body>
+</html>

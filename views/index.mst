@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {{> head }}
+  <title>Main</title>
+</head>
+<body id="home_body">
+  {{> header }}
+  <h1>English word</h1>
+ <p>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3Si5xYtvAOMaUIwlXWUp8OpDm5-2H-Ov0LB31spq1iyloIEf" height=200 width=400>
+   <img src="http://lanzarotebusinessassociation.com/wp-content/uploads/2018/02/here-to-help-customer-care-concept-message-%E2%80%9Cwe-help-written-chalk-blackboard-34167958.jpg" height=200 width=400 align=right>
+ </p>
+ <div class="img_hero">
+   <img class="herou" src="http://mult.land/uploads/pers_1/geroj-multfilma-krosh.png" border="0" >
+   <img src="http://mult.land/uploads/pers/geroj-multfilma-kar-karich.png" border="0" >
+ </div>
+</body>
+</html>

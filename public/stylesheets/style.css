@@ -1,0 +1,36 @@
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  overflow: hidden;
+  width:100%;
+  top: 0;
+  position: fixed;
+  left: 0;
+}
+ul.menu li {
+    float: left;
+}
+ul.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+    font-family: cursive;
+}
+ul.menu li a:hover {
+    background-color: #111111;
+}
+.menu .active{
+  background-color: #00CC00;
+}
+.menu .menu_exit{
+  float:right;
+}
+@media screen and (max-width: 600px){
+    ul.menu li.menu_exit,
+    ul.menu li {float: none;text-align: center;}
+}
